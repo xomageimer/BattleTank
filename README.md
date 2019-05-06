@@ -3,4 +3,4 @@
 
 
 ## Lessons List
-01 Settig UP a GitHub repo.
+BT01 Settig UP a GitHub repo.
