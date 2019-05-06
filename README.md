@@ -1,6 +1,6 @@
-# BattleTank
+﻿# BattleTank
 Открытый мир с противостоянием двух танков, простой ИИ, местность и усовершенствованная система управления UE4
 
 
 ## Lessons List
-BT01 Settig UP a GitHub repo.
+BT01 Settig UP a GitHub repo. ~ok
