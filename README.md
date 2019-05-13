@@ -4,3 +4,4 @@
 
 ## Lessons List
 BT01 Settig UP a GitHub repo. ~ok
+BT02 Game Design Document (GDD)
