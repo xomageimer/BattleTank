@@ -6,3 +6,4 @@
 * BT01 Settig UP a GitHub repo. ~ok
 * BT02 Game Design Document (GDD)
 * BT03 Setting Up a GitHub "Repo"
+* BT13 Camera and pos (+ Tank)
